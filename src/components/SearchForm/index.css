@@ -1,0 +1,62 @@
+.bg-container {
+    margin-top: 20px;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    margin-left: -5px;
+    margin-bottom: 20px;
+}
+.change-text {
+    width: 300px;
+    height: 30px;
+    border-radius: 4px;
+}
+.date {
+    margin-top: 10px;
+    margin-left: -340px;
+}
+label {
+    border-radius: 6px;
+    font-size: 15px;
+    width: 200px;
+}
+.input-text {
+    border-radius: 6px;
+}
+input {
+    width: 250px;
+    height: 30px;
+    margin-left: 4px;
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+.des {
+    margin-left: 10px;
+}
+
+.arrow-icon {
+    margin-left: 100px;
+    color: black;
+    height: 50px;
+    width: 50px;
+}
+
+.btn {
+    background-color: green;
+    color: white;
+    padding: auto;
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
